@@ -9,3 +9,5 @@
 ## Descripción
 Aplicación de consola en Python para gestionar tareas (agregar, mostrar y eliminar).
 Desarrollado con Git y GitHub en dinámica de "carrera de relevos".
+
+Contribución realizada por Ayde Mirian Condori Valencia
